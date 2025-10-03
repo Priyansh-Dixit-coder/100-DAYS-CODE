@@ -1,4 +1,5 @@
 // Q43: Write aprogram to check if a number is a strong number.
+
 #include <stdio.h>
 
 
